@@ -13,6 +13,8 @@
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1xrPzmxOJk9YdM653S8YEMJ4t1QVnpS2L/view?usp=sharing](https://drive.google.com/file/d/1xrPzmxOJk9YdM653S8YEMJ4t1QVnpS2L/view?usp=sharing)
 
+- Portfolio [https://portfolio-chanpreet3000s-projects.vercel.app/]
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/chanpreet3000" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="chanpreet3000" height="30" width="40" /></a>

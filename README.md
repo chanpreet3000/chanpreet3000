@@ -13,7 +13,7 @@
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1xrPzmxOJk9YdM653S8YEMJ4t1QVnpS2L/view?usp=sharing](https://drive.google.com/file/d/1xrPzmxOJk9YdM653S8YEMJ4t1QVnpS2L/view?usp=sharing)
 
-- Portfolio [https://portfolio-chanpreet3000s-projects.vercel.app/]
+- [Portfolio](https://portfolio-chanpreet3000s-projects.vercel.app/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

@@ -1,32 +1,46 @@
-<h1 align="center">Hi 👋, I'm Chanpreet Singh</h1>
-<h3 align="center">Game, Android and Frontend developer</h3>
+# Hey there! 👋 I'm Chanpreet Singh
+
+Welcome to my little corner of GitHub. I'm an upcoming Software Engineer at Atlassian, where I'll probably spend my time
+figuring out how to break (and then fix) things in the coolest way possible.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chanpreet3000&label=Profile%20views&color=0e75b6&style=flat" alt="chanpreet3000" /> </p>
 
-- 🔭 I’m currently working on [Ball Halter 3D](https://github.com/chanpreet3000/Ball-Halter-3D)
+## About Me 🙃
 
-- 👯 I’m looking to collaborate on [Visualize DS](https://github.com/chanpreet3000/Visualize-DS)
+- **Coding**: I dive into web development, game dev, Android apps, and automation scripts when life gets
+  overwhelming. It’s my way of keeping busy and building cool stuff along the way.
+- **Competitive Coding**:  I got addicted to solving problems on platforms like Codeforces
+  and LeetCode. It was fun while it lasted, but these days, I prefer creating solutions instead of just finding them.
+- **Gaming Nerd**: Valorant, Minecraft, GTA, Rocket League, name it, and I’ve probably spent way too many hours
+  playing it. Gaming is my way of unwinding and pretending I’m not just staring at another screen.
+- **Freelancing on Upwork**: I’m an automation enthusiast and developer specializing in web scraping, browser
+  automation, and API integrations. On Upwork, I’ve worked with clients worldwide to create clean, maintainable scripts
+  using tools like Puppeteer, Selenium, Playwright, and more. Whether it’s data scraping, automating complex workflows,
+  or building efficient systems, I enjoy delivering solutions that are robust and future-proof. Plus, I make sure my
+  code is well-documented and ready for deployment (including on EC2).
 
-- 💬 Ask me about **Competitive Programming, Unity and Android Studio**
+## What You’ll Find Here
 
-- 📫 How to reach me **chanpreet3000@gmail.com**
+Mostly personal projects, automation scripts, and random experiments. My code is clean (most of the time), and I try to
+keep it organized, but hey, it’s a work in progress just like me.
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1xrPzmxOJk9YdM653S8YEMJ4t1QVnpS2L/view?usp=sharing](https://drive.google.com/file/d/1xrPzmxOJk9YdM653S8YEMJ4t1QVnpS2L/view?usp=sharing)
+## Connect with Me
 
-- [Portfolio](https://chanpreet-portfolio.vercel.app/)
+- **Portfolio**: [chanpreet-portfolio.vercel.app](https://chanpreet-portfolio.vercel.app)
+- **LinkedIn**: [Chanpreet Singh](https://linkedin.com/in/chanpreet3000)
+- **CodeChef**: [chanpreet_s](https://www.codechef.com/users/chanpreet_s)
+- **Codeforces**: [chanpreet3000](https://codeforces.com/profile/chanpreet3000)
+- **LeetCode**: [chanpreet3000](https://www.leetcode.com/chanpreet3000)
+- **Discord**: [chanpreet3000](https://discord.gg/chanpreet3000)
+- **Upwork**: [Chanpreet Singh](https://www.upwork.com/freelancers/chanpreet3000)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/chanpreet3000" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="chanpreet3000" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/chanpreet_s" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="chanpreet_s" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/chanpreet3000" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="chanpreet3000" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/chanpreetug20" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="chanpreetug20" height="30" width="40" /></a>
-<a href="https://discord.gg/chanpreet3000" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="chanpreet3000" height="30" width="40" /></a>
-</p>
+---
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://graphql.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://rubyonrails.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rails/rails-original-wordmark.svg" alt="rails" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
+### GitHub Stats
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=chanpreet3000&show_icons=true&locale=en" alt="chanpreet3000" /></p>
+![Chanpreet's GitHub Stats](https://github-readme-stats.vercel.app/api?username=chanpreet3000&show_icons=true&locale=en)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=chanpreet3000&" alt="chanpreet3000" /></p>
+---
+
+Thanks for stopping by! If you’ve got feedback or ideas, I’d love to hear them (as long as I don’t have to join a Zoom
+call). 😄
